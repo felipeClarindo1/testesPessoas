@@ -1,0 +1,25 @@
+1- R: Infelizmente houve alguns imprevistos e preciso de mais algum tempo para validar e testar a aplicação e resolver possíveis bugs, possa ser que entre no prazo porém pode atrasar.
+
+2- R: Analisaria o caso e veria quando tempo iria levar para fazer caso seja só possível entregar no outro dia terminaria o que estava fazendo e depois logo partiria para a emergência ou até mesmo pediria mais um dia de prazo para o que já estava terminando e partiria para a emergência.
+
+3-R: Primeiro verificaria fazendo teste na versão que está no cliente e na versão mais recente que temos, ajustaria os erros nas duas versões e passaria para o QA uma versão de teste para conferir.
+
+4- R: Falaria que não tem como entregar na quela situação se ocorresse o caso isso seria um problema por averias alguns problemas que teríamos que refazer determinado methodos novamente.
+
+Em um mundo repleto de desafios e oportunidades, a busca por um equilíbrio entre o progresso e a preservação do meio ambiente emerge como uma prioridade crucial para a humanidade. Em meio a esse contexto, a conscientização ambiental se torna um ponto central de discussão e ação. Cada indivíduo, empresa e governo desempenha um papel vital nesse cenário, onde a responsabilidade coletiva molda o futuro do nosso planeta.
+
+No âmbito pessoal, pequenas mudanças de hábitos podem gerar grandes impactos. Desde a redução do consumo de plástico até o uso consciente de recursos naturais, cada escolha cotidiana reflete nosso compromisso com a sustentabilidade. Além disso, a educação ambiental desempenha um papel fundamental, capacitando as pessoas a entenderem melhor os desafios enfrentados pelo meio ambiente e a adotarem medidas proativas para enfrentá-los.
+
+No contexto empresarial, a sustentabilidade não é apenas uma tendência, mas sim uma necessidade imperativa. Empresas que integram práticas ambientalmente responsáveis não apenas contribuem para a preservação do planeta, mas também fortalecem sua própria imagem de marca e agregam valor aos seus produtos e serviços. A implementação de políticas de produção limpa, a adoção de energias renováveis e a minimização do desperdício são algumas das estratégias que as empresas podem adotar para promover a sustentabilidade.
+
+Por outro lado, o papel dos governos é fundamental na formulação e implementação de políticas públicas voltadas para a proteção do meio ambiente. A legislação ambiental rigorosa, o estímulo a práticas sustentáveis e o investimento em tecnologias verdes são algumas das medidas que os governos podem adotar para promover uma economia mais verde e resiliente.
+
+No entanto, para alcançar uma verdadeira mudança, é essencial uma abordagem colaborativa e multidisciplinar. A cooperação entre governos, empresas, organizações não-governamentais e a sociedade civil é fundamental para enfrentar os desafios ambientais globais de maneira eficaz. Além disso, o engajamento dos cidadãos comuns é essencial para impulsionar essa transformação, pois são eles que, em última instância, moldam as políticas e práticas adotadas em suas comunidades e países.
+
+Em suma, a busca pela sustentabilidade ambiental é um desafio complexo, porém essencial, que exige o comprometimento de todos os setores da sociedade. Somente através da cooperação e da ação conjunta podemos garantir um futuro sustentável para as gerações futuras.
+
+
+
+
+
+
